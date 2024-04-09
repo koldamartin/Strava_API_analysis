@@ -1,3 +1,5 @@
+[Výsledný Datalore dashboard na ukázku](https://datalore.jetbrains.com/report/static/oe9Oq43QW0xITpjgLX6x1v/fdqEemItzszWYbuW9SVcPK)
+
 ## 1. Vytvoření API aplikace
 a) Přihlásit se na svůj učet Strava.
 
