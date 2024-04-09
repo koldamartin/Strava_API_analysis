@@ -45,6 +45,10 @@ Nastavit správnou cestu pro vyhledání souboru activities.csv
 
 ![image](https://github.com/koldamartin/Strava_API_analysis/assets/68967537/9e7fd300-ecdf-481d-a091-8f2e9e453f10)
 
+Ručně přepsat hodnoty gear_id, z jakéhosi důvodu strava načte jen nic neříkající kódy a je nutné přijít na to který kód patří pro které kolo.
+![image](https://github.com/koldamartin/Strava_API_analysis/assets/68967537/0b7d45ce-095c-46b5-88b7-2e101b65ef16)
+
+
 Spustit notebook
 
 
