@@ -1,7 +1,7 @@
 ## 1. Vytvoření API aplikace
 a) Přihlásit se na svůj učet Strava.
 
-b) Jít na https://www.strava.com/settings/api a vytvořit aplikaci, website a authorization callback domain nastavit jako "localhost"
+b) Jít na https://www.strava.com/settings/api a vytvořit aplikaci, website a authorization callback domain nastavit jako "localhost". Je nutné vybrat pro aplikaci nějaký obrázek jako ikonu.
 
 ![image](https://github.com/koldamartin/Strava_API_analysis/assets/68967537/392ba881-1844-41bb-a563-029c9db1b145)
 
